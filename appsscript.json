@@ -1,0 +1,49 @@
+{
+  "timeZone": "Asia/Bangkok",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "sheets": {
+    "macros": [{
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }, {
+      "menuName": "Macro2",
+      "functionName": "Macro2"
+    }, {
+      "menuName": "onSave",
+      "functionName": "DataFormat",
+      "defaultShortcut": "Ctrl+Alt+Shift+1"
+    }, {
+      "menuName": "equipDataFilter",
+      "functionName": "equipDataFilter"
+    }, {
+      "menuName": "itemName",
+      "functionName": "itemName"
+    }, {
+      "menuName": "exportPdf",
+      "functionName": "exportPdf"
+    }, {
+      "menuName": "autoResizeRow",
+      "functionName": "autoResizeRow"
+    }, {
+      "menuName": "autt",
+      "functionName": "autt"
+    }, {
+      "menuName": "copyToNewSheet",
+      "functionName": "copyToNewSheet"
+    }, {
+      "menuName": "saveToOtherSpreadSheet",
+      "functionName": "saveToOtherSpreadSheet"
+    }, {
+      "menuName": "hideGridView",
+      "functionName": "hideGridView"
+    }, {
+      "menuName": "unfree",
+      "functionName": "unfree"
+    }, {
+      "menuName": "overFlowTextCell",
+      "functionName": "overFlowTextCell"
+    }]
+  }
+}
